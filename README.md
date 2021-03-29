@@ -9,4 +9,8 @@
 7. now its ready to use
 
 
+for admin login  
+username = admin
+password = admin
+
 Thank you for your time!
